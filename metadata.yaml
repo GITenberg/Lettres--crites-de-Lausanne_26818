@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32256
     wikipedia: http://en.wikipedia.org/wiki/Isabelle_de_Charri%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26818#Lettres--crites-de-Lausanne
 gutenberg_bookshelf:
 - FR Littérature francophone
 - FR Littérature
