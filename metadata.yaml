@@ -1,0 +1,34 @@
+_repo: Lettres--crites-de-Lausanne_26818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charrière, Isabelle de
+    aliases:
+    - Zuylen, Belle de
+    - Charriere, Isabelle de
+    birthdate: 1740
+    deathdate: 1805
+    gutenberg_agent_id: '32256'
+    url: http://www.gutenberg.org/2009/agents/32256
+    wikipedia: http://en.wikipedia.org/wiki/Isabelle_de_Charri%C3%A8re
+description: ''
+gutenberg_bookshelf:
+- FR Littérature francophone
+- FR Littérature
+- FR Femmes
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26818'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+title: Lettres écrites de Lausanne
+url: http://www.gutenberg.org/ebooks/26818
